@@ -1,14 +1,14 @@
 <h1> Hi guys, I’m Kael Silva 👨🏾‍💻</h2>
 
-<h2> A Developer student from Brazil 👽 </h2>
+<h2> A developer student from Brazil 👽 </h2>
 
 
 
 - 💾 I’m currently working as a Support Analyst at Consumer
 
-- 💻 I’m always learning about web devolpmente and improving my skills in ReactJS (NextJS ❤) and NodeJS
+- 💻 I’m always learning about web development and improving my skills in ReactJS (NextJS ❤) and NodeJS
 
-- 📫 Reeach me kael_hs@hotmail.com
+- 📫 Reach me kael_hs@hotmail.com
 
 
 <h2> Goals </h2>
