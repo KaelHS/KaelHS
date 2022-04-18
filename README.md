@@ -4,7 +4,7 @@
 
 
 
-- 💾 I’m currently working as FullStack Web Developer at Rissi Contabilidade.
+- 💾 I’m currently working as FullStack Web Developer.
 
 - 💻 I’m always learning about web development and improving my skills in ReactJS (NextJS ❤) and NodeJS.
 
