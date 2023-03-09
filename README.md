@@ -6,7 +6,7 @@
 
 - 💾 I’m currently working as FullStack Web Developer.
 
-- 💻 I’m always learning about web development and improving my skills in ReactJS (NextJS ❤) and NodeJS.
+- 💻 I’m always learning about web development and improving my skills in React Native, ReactJS (NextJS ❤) and NodeJS.
 
 - 📫 Reach me <a href="mailto:kael_hs@hotmail.com?subject=Contato GitHub">kael_hs@hotmail.com
 
